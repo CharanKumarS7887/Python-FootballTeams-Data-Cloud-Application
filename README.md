@@ -1,4 +1,4 @@
-#Python Cloud Script o get all Football Matces data from wesite using API
+# Python Cloud Script o get all Football Matces data from wesite using API
 
 - This script gets data of all football matches .
 - From 13-08-2021 to tilldate
@@ -9,13 +9,13 @@
 
 
 
-#Changes need to be done
+# Changes need to be done
 
 - mail()  line-836 
 - add your outloook email and password and also specify recievers mail
 - Change paths
 
-#Libraries used 
+# Libraries used 
 
 - Requests
 - Simple JSON
@@ -23,5 +23,5 @@
 - base64
 - Pandas
 
-#Contact
+# Contact
 - Email : charanyesemail@gmail.com
