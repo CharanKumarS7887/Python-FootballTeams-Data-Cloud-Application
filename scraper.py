@@ -833,9 +833,9 @@ def csvu(cc):
     
     
 def send_mail():
-    email_user = 'charanyes1@outlook.com'
-    email_password = 'Chiru@7887...'
-    email_send = 'jdevendraraj@outlook.com,charanyesemail@gmail.com'
+    email_user = 'Youroutloookmail'
+    email_password = 'Password'
+    email_send = 'Recievers mail'
 
     subject = 'Output CSV'
     
